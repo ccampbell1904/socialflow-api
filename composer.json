@@ -1,0 +1,31 @@
+{
+  "name": "2ndplayer/socialflow",
+  "description": "SocialFlow API Plugin",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "socialflow",
+    "social"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "2ndplayer",
+      "homepage": "2ndplayer.co",
+      "role": "Company"
+    },
+    {
+      "name": "Chris Campbell",
+      "email": "Chris@2ndplayer.co",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/ccampbell1904/socialflow-api"
+  },
+  "require": {
+    "php": ">=5.4",
+    "composer/installers": "^1.0"
+  }
+}
